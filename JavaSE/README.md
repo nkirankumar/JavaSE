@@ -1,4 +1,3 @@
-[Link to Header] (#collections-framework)
 
 [TOC]
 
