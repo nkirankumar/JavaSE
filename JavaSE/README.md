@@ -1,6 +1,9 @@
+[Link to Header] (#collections-framework)
+
 [TOC]
 
 # Collections framework
+
 ## Collection(interface)
 ## Collections(class)
 ## List(interface)
@@ -10,4 +13,5 @@
 ## Queue(interface)
 ## Map(interface)
 ## NavigableMap(interface)
+
 
