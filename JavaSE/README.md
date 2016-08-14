@@ -1,4 +1,5 @@
-# Collections framework
+Collections framework
+=====================
 
 * Collection(interface)
 * Collections(class)
