@@ -1,6 +1,6 @@
 click [here](http://docs.oracle.com/javase/7/docs/index.html) for Java SE Documentation
 
-![GitHub Logo](/images/Hierarchy.png)
+![GitHub Logo](JavaSE/images/Hierarchy.png)
 Format: ![Alt Text](url)
 
 Collections framework
