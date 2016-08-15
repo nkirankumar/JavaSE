@@ -1,4 +1,8 @@
 click [here](http://docs.oracle.com/javase/7/docs/index.html) for Java SE Documentation
+
+![GitHub Logo](/images/Hierarchy.png)
+Format: ![Alt Text](url)
+
 Collections framework
 =====================
 * Collection(interface)
@@ -21,3 +25,21 @@ Collections framework
 	* Stack(C)(1.0)
 	
 **Note**: 1.0-Legacy classes
+
+#Set
+Duplicates are not allowed & insertion order is not preserved
+
+>Collection(I)(1.2)
+* Set(I)(1.2)
+  * HashSet(C)(1.2)
+  * LinkedHashSet(C)(1.4)
+  
+#SortedSet
+Duplicates are not allowed & insertion order is not preserved
+
+>Collection(I)(1.2)
+* Set(I)(1.2)
+  * HashSet(C)(1.2)
+  * LinkedHashSet(C)(1.4)
+ 
+
