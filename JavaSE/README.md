@@ -10,7 +10,6 @@ Collections framework
 * Queue(interface)
 * Map(interface)
 * NavigableMap(interface)
-
 Collection(I)(1.2)
 	*List(I)(1.2)
 		*ArrayList(C)(1.2)
