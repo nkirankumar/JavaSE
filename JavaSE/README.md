@@ -11,6 +11,8 @@ Collections framework
 * Map(interface)
 * NavigableMap(interface)
 
+#List
+
 >Collection(I)(1.2)
 * List(I)(1.2)
   * ArrayList(C)(1.2)
