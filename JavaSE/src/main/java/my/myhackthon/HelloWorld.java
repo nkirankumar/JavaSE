@@ -14,11 +14,9 @@ public class HelloWorld {
 		String str = "rrlrlr";
 		Set<String> set = new HashSet<String>();
 		Map<String, Integer> map = new HashMap<String, Integer>();
-
 		// intcnt=0;
 		map.put("r", 1);
 		map.put("l", -1);
-
 		int sum = 0;
 
 		System.out.println(str.length());
@@ -48,9 +46,7 @@ public class HelloWorld {
 			if (sum == toachieve && !set.contains(s)) {
 				cnt++;
 				// sum =0;
-				set.add(s);
-				// System.out.println(set);
-				// s="";
+				set.add(s);				
 			}
 
 		}
