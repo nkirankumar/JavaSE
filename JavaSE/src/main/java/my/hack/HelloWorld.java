@@ -1,4 +1,4 @@
-package my.myhackthon;
+package my.hack;
 
 import java.util.HashMap;
 import java.util.HashSet;

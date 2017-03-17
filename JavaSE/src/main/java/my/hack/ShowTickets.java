@@ -1,4 +1,4 @@
-package my.myhackthon;
+package my.hack;
 
 import java.util.LinkedList;
 import java.util.Queue;

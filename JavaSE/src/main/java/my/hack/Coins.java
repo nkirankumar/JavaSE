@@ -1,4 +1,4 @@
-package my.myhackthon;
+package my.hack;
 
 public class Coins {
 	public static void main(String args[]) {

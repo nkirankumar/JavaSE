@@ -1,4 +1,4 @@
-package my.myhackthon;
+package my.hack;
 
 public class Xor {
 	public static void main(String a[]) {
