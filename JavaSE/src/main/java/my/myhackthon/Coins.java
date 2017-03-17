@@ -2,8 +2,7 @@ package my.myhackthon;
 
 public class Coins {
 	public static void main(String args[]) {
-		int coins[]={2,5,8,3};//1 2 3 2
-		
+		int coins[]={2,5,8,3};//1 2 3 2		
 		for (int i = 0; i < coins.length; i++) {
 
 			int count = 0;

@@ -23,5 +23,4 @@ public class MinNum {
 		}
 		return day;
 	}
-
 }

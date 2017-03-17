@@ -12,7 +12,6 @@ public class MetroLand {
 		int max = findMax(x, y);
 		int n = p.length;
 		int minCost = Integer.MAX_VALUE;
-
 		for (int i = 0; i <= max; i++) {
 			for (int j = 0; j <= max; j++) {
 				int cost = 0;

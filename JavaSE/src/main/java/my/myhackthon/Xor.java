@@ -3,7 +3,7 @@ package my.myhackthon;
 public class Xor {
 	public static void main(String a[]) {
 		System.out.print(maxXor(2,4,8));//7
-		System.out.print(maxXor(1,3,3));//3	
+		System.out.print(maxXor(1,3,3));//3
 
 	}
 

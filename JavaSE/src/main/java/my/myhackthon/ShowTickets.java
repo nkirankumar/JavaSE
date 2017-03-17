@@ -6,8 +6,7 @@ import java.util.Queue;
 public class ShowTickets {
 	public static void main(String[] args) {
 		//int tickets[] = { 5, 5, 2, 3 };//11
-		//int p=3;
-		
+		//int p=3;		
 		//int tickets[] = { 2, 6, 3, 4, 5 };//12
 		//int p = 2;
 		

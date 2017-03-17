@@ -40,8 +40,7 @@ public class Keypad {
 					}
 				}
 
-		}
-		// System.out.println("------------------");
+		}		
 		for (int i = 0; i < s.length(); i++) {
 			// System.out.println(i);
 			if (i < s.length() - 1) {
